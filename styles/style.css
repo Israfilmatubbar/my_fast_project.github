@@ -30,6 +30,7 @@
     margin: 0;
     padding: 0;
     flex: 1;
+    padding-right: 10px;
     
 }
 .navbar ul li {
@@ -82,7 +83,7 @@
 }
 
 .banner {
-    background-image:url(/pictures/banner/71577e1cf59d802.jpg);
+    background-image:url("../pictures/banner/71577e1cf59d802.jpg");
     
 }
 .banner h1 {
